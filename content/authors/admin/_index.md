@@ -22,8 +22,8 @@ organizations:
 
 interests:
 - Political Polarization
-- Labor
-- Social Movements
+- Sociology of Law
+- Labor and Social Movements
 - Computational Social Science
 
 education:
@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD student in sociology at Columbia University.
+I am a PhD student and Paul F. Lazarsfeld Fellow in the Department of Sociology at Columbia University. 
 
