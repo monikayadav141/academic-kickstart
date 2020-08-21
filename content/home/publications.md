@@ -30,14 +30,6 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-  
-# Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
 
 [design.background]
   # Apply a background color, gradient, or image.
