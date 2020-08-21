@@ -14,7 +14,7 @@ baseurl = "https://romantic-euclid-7fbc5c.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; Monika Yadav {year}"
 
 ############################
 ## Advanced options below ##
