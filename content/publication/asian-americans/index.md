@@ -43,7 +43,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: 
+url_source: https://items.ssrc.org/covid-19-and-the-social-sciences/the-rise-of-anti-asian-hate-in-the-wake-of-covid-19/
 url_video:
 
 
