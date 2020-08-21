@@ -3,11 +3,11 @@
 
 title: "The Rise of Anti-Asian Hate in the Wake of Covid-19"
 authors: [Jennifer Lee and Monika Yadav]
-date: 2020-08-20T23:11:08-04:00
+date: 2020-05-20T22:11:08-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-20T23:11:08-04:00
+publishDate: 2020-08-20T22:11:08-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -44,7 +44,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-url_url: https://items.ssrc.org/covid-19-and-the-social-sciences/the-rise-of-anti-asian-hate-in-the-wake-of-covid-19/
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
