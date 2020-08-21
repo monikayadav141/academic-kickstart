@@ -21,7 +21,7 @@ organizations:
 # bio: I am a second year PhD student in sociology at Columbia University. 
 
 interests:
-- Political and Media Polarization
+- Political Polarization
 - Labor
 - Social Movements
 - Computational Social Science
@@ -60,7 +60,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
- i
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
