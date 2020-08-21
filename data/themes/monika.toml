@@ -5,18 +5,18 @@ name = "monika"
 light = true
 
 # Primary
-primary = "#DC7633" # blue
+primary = "#DC7633" 
 
 # Menu
-menu_primary = "#fdf6e3" 
-menu_text = "#D35400"
-menu_text_active = "#873600"
-menu_title = "#D35400"
+menu_primary = "#E59866" #The topmost header
+menu_text = "#1C2833"
+menu_text_active = "#17202A"
+menu_title = "#1C2833" #Title of the menu - Monika Yadav
 
 # Backgrounds
-background = "#FDFEFE"
-home_section_odd = "#FDFEFE"
-home_section_even = "#FDFEFE"
+background = "#FEF9E7" #Main background
+home_section_odd = "#FEF9E7"  #Second last section
+home_section_even = "#FEF9E7" #Last section
 
 
 # SOLARIZED HEX      TERMCOL  
