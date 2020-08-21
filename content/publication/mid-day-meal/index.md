@@ -19,10 +19,10 @@ publication_types: ["0"]
 publication: "Ideas for India"
 publication_short: ""
 
-abstract: "Soon after Aadhaar (unique identity number issued by Govt. of India) was made compulsory for availing midday meals in schools, Indian government claimed that the move had helped expose several instances of schools siphoning off funds under the scheme by reporting inflated student enrolment. Comparing official data with that from the Indian Human Development Survey, I show that corruption in the scheme is less than what is being alleged - and not of the nature that Aadhaar can check."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Soon after Aadhaar (unique identity number issued by Govt. of India) was made compulsory for availing midday meals in schools, Indian government claimed that the move had helped expose several instances of schools siphoning off funds under the scheme by reporting inflated student enrolment. Comparing official data with that from the Indian Human Development Survey, I show that corruption in the scheme is less than what is being alleged - and not of the nature that Aadhaar can check."
 
 tags: []
 categories: []
