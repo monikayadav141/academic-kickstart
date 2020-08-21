@@ -23,7 +23,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We chronicle the rise of attacks, harassment and bias toward Asian Americans as the Covid-19 pandemic has unfolded. Abetted in part by discourse from the Trump administration, we discuss the past history of these prejudices in prior emergencies. We conclude with an analysis of political differences within the Asian American community and how these might be affected, and possibly bridged, in response to the scapegoating of the group as a whole."
 
 tags: []
 categories: []
