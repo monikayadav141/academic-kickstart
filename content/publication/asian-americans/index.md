@@ -6,6 +6,7 @@ authors: [Jennifer Lee and Monika Yadav]
 date: 2020-05-20T22:11:08-04:00
 doi: ""
 
+
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-20T22:11:08-04:00
 
@@ -42,7 +43,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: 
 url_video:
 
 
