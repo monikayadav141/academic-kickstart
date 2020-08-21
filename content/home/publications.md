@@ -22,14 +22,6 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -39,6 +31,14 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
+# Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
