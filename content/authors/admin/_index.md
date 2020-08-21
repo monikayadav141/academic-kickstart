@@ -15,7 +15,7 @@ role: PhD Student in Sociology
 # Organizations/Affiliations
 organizations:
 - name: Columbia University
-  url: ""
+  url: "https://sociology.columbia.edu/content/monika-yadav"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: I am a second year PhD student in sociology at Columbia University. 
