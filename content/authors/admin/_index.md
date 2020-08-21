@@ -18,7 +18,7 @@ organizations:
   url: "https://sociology.columbia.edu/content/monika-yadav"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: I am a second year PhD student in sociology at Columbia University. 
+# bio: I am a sociology PhD student at Columbia University. 
 
 interests:
 - Political Polarization
