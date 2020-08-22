@@ -8,15 +8,15 @@ light = true
 primary = "#DC7633" 
 
 # Menu
-menu_primary = "#E59866" #The topmost header
+menu_primary = "#ffe5cc" #The topmost header
 menu_text = "#1C2833"
 menu_text_active = "#17202A"
 menu_title = "#1C2833" #Title of the menu - Monika Yadav
 
 # Backgrounds
-background = "#FEF9E7" #Main background
-home_section_odd = "#FEF9E7"  #Middle section
-home_section_even = "#FAE5D3" #Contact
+background = "#FDFEFE" #Main background
+home_section_odd = "#FDFEFE"  #Middle section
+home_section_even = "#FFF7F0" #Contact
 
 
 # SOLARIZED HEX      TERMCOL  
