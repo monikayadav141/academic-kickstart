@@ -15,8 +15,8 @@ menu_title = "#1C2833" #Title of the menu - Monika Yadav
 
 # Backgrounds
 background = "#FEF9E7" #Main background
-home_section_odd = "#FEF9E7"  #Second last section
-home_section_even = "#FEF9E7" #Last section
+home_section_odd = "#FEF9E7"  #Middle section
+home_section_even = "#FAE5D3" #Contact
 
 
 # SOLARIZED HEX      TERMCOL  
