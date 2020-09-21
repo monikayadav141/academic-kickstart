@@ -9,9 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "Research"
-  url = "/project"
-  weight = 30
+  name = "Research"  # A link title for your page.
+  url = "/projects"  # The URL of your page.
+  weight = 50 
 
 [[main]]
   name = "Publications"
@@ -22,6 +22,8 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+  
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
