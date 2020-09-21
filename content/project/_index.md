@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Current Research Projects
 
 # View.
 #   1 = List

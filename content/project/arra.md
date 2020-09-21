@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Labor and Litigation: Effect of unions"
+title: "Effect of NIH-ARRA funding on scientific productivity"
 subtitle: ""
-summary: "In this project, I look at the rise in wage and hour cases filed by nonunion workers in the US under Fair Labor Standards Act (FLSA) and explore the role of labor unions in advancing legal mobilization among workers."
+summary: "In this study, my co-author Seungwon Lee and I measure the causal effect of the NIH funding disbursed under the American Recovery and Reinvestment Act (ARRA) of 2009 on scientific productivity. Additionally, we test whether the causal effect of ARRA funding varies by gender."
 authors: []
 tags: []
 categories: []
-date: 2020-09-20T23:12:15-04:00
-lastmod: 2020-09-20T23:12:56-04:00
+date: 2020-09-20T23:10:41-04:00
+lastmod: 2020-09-20T23:34:41-04:00
 featured: false
 draft: false
 
