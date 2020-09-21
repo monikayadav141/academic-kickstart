@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student and Paul F. Lazarsfeld Fellow in the Department of Sociology at Columbia University. I am also a graduate fellow at [INCITE] [https://incite.columbia.edu/]. I got my bachelors in engineering following which I decided to move into social sciences.
+I am a PhD student and Paul F. Lazarsfeld Fellow in the Department of Sociology at Columbia University. I am also a graduate fellow at [INCITE](https://incite.columbia.edu/). I got my bachelors in engineering following which I decided to move into social sciences.
 
 My work revolves around studying questions related to political and media polarization, specifically, how does online misinformation affect beliefs and behavior on an individual level, and public opinion and discourse around policy issues on a macro level. Relatedly, I am also highly interested in exploring the effectiveness of corrective information and different fact-checking measures. My other fields of inquiry are labor, social movements, sociology of law and inequality. 
 
