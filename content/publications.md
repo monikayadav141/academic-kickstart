@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications (Not-peer reviewed)
 summary: 
 date: "2018-06-28T00:00:00Z"
 
@@ -14,15 +14,14 @@ header:
   image: ""
 ---
 
-### Articles (Not-peer reviewed)
 
-## **Commentary: [The Rise of Anti-Asian Hate in the Wake of Covid-19](https://items.ssrc.org/covid-19-and-the-social-sciences/the-rise-of-anti-asian-hate-in-the-wake-of-covid-19/)**
+### **Commentary: [The Rise of Anti-Asian Hate in the Wake of Covid-19](https://items.ssrc.org/covid-19-and-the-social-sciences/the-rise-of-anti-asian-hate-in-the-wake-of-covid-19/)**
 
 *Jennifer Lee and Monika Yadav*
 
 We chronicle the rise of attacks, harassment and bias toward Asian Americans as the Covid-19 pandemic has unfolded. Abetted in part by discourse from the Trump administration, we discuss the past history of these prejudices. We conclude with an analysis of political differences within the Asian American community and how these might be affected, and possibly bridged, in response to the scapegoating of the group as a whole.
 
-## **Analysis: [Midday meals scheme: Are corruption claims exaggerated?](https://www.ideasforindia.in/topics/governance/midday-meals-scheme-are-corruption-claims-exaggerated.html)**
+### **Analysis: [Midday meals scheme: Are corruption claims exaggerated?](https://www.ideasforindia.in/topics/governance/midday-meals-scheme-are-corruption-claims-exaggerated.html)**
 
 *Monika Yadav*
 
