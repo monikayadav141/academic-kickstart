@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Midday meals scheme: Are corruption claims exaggerated?"
+title: "Analysis: Midday meals scheme: Are corruption claims exaggerated?"
 authors: [Monika Yadav]
 date: 2017-07-20T23:21:33-04:00
 doi: ""

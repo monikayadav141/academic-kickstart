@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Rise of Anti-Asian Hate in the Wake of Covid-19"
+title: "Commentary: The Rise of Anti-Asian Hate in the Wake of Covid-19"
 authors: [Jennifer Lee and Monika Yadav]
 date: 2020-05-20T22:11:08-04:00
 doi: ""
