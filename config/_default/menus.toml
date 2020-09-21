@@ -11,7 +11,7 @@
 [[main]]
   name = "Research"  # A link title for your page.
   url = "/projects"  # The URL of your page.
-  weight = 50 
+  weight = 20 
 
 [[main]]
   name = "Publications"
